@@ -1,4 +1,4 @@
-# Hola, soy Dimanso 👋🏾 👨🏽‍💻
+# Hola, soy Dima 👋🏾 👨🏽‍💻
 
 Desarrollador Backend con Python - Django estudiante de el programa <a href="http://https://platzi.com/blog/conoce-que-es-platzi-master/">Plazi Master</a>, Entusiasta de la ciencia de la computacion, Las tecnologias con las que me apasiona crear codigo y proyectos son. 
 
