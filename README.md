@@ -5,9 +5,9 @@ Desarrollador Backend con Python - Django estoy en el programa <a href="http://h
 <table align="right" width="150" height="150">
   <tr> 
      <td > Demo de algunos de los proyectos que en los que e colaborado 
-     <p><a href="https://www.youtube.com/watch?v=eVRFnytvDHE">Master Path | Hackatón Platzi Master 2020</a> 💼</p>
-     <p><a href="https://www.youtube.com/watch?v=ylLJ3H1UiCQ/">CheapFetch</a> 💼</p>
-     <p><a href="https://www.youtube.com/watch?v=8oqP7f7T_lc">Re-Z</a> 💼</p>
+     <p><a href="https://www.youtube.com/watch?v=eVRFnytvDHE">Master Path | Hackatón Platzi Master 2020</a> 💥🚀</p>
+     <p><a href="https://www.youtube.com/watch?v=ylLJ3H1UiCQ/">CheapFetch</a> 🤑🚁</p>
+     <p><a href="https://www.youtube.com/watch?v=8oqP7f7T_lc">Re-Z</a> 😋🏍</p>
      </td>
    </tr>
 </table>
