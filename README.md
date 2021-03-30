@@ -7,4 +7,4 @@ Desarrollador Backend en Python - Django estoy en el programa <a href="http://ht
  <a href="https://www.linkedin.com/in/dimanso-perez-6144081bb/">LinkedIn</a> 💼
 
 
-<img src="//www.djangoproject.com.ico">
+<img src="
