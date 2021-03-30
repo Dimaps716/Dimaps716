@@ -1,6 +1,16 @@
 # Hola, soy Dimanso 👋🏾 👨🏽‍💻
 
-Desarrollador Backend en Python - Django estoy en el programa <a href="http://https://platzi.com/blog/conoce-que-es-platzi-master/">Plazi Master</a>, Las tecnologias con las que me apasiona crear codigo y proyectos son 
+Desarrollador Backend con Python - Django estoy en el programa <a href="http://https://platzi.com/blog/conoce-que-es-platzi-master/">Plazi Master</a>, Las tecnologias con las que me apasiona crear codigo y proyectos son 
+
+<table align="right" width="150" height="150">
+  <tr> 
+     <td > Demo de algunos de los proyectos que en los que e colaborado 
+     <p><a href="https://www.youtube.com/watch?v=eVRFnytvDHE">Master Path | Hackatón Platzi Master 2020</a> 💼</p>
+     <p><a href="https://www.youtube.com/watch?v=ylLJ3H1UiCQ/">CheapFetch</a> 💼</p>
+     <p><a href="https://www.youtube.com/watch?v=8oqP7f7T_lc">Re-Z</a> 💼</p>
+     </td>
+   </tr>
+</table>
 
 <li> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/python_18894.png" >Python -<img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/file_type_django_icon_130645.png">Django - <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/docker_original_wordmark_logo_icon_146557.png"> Docker</li> 
 
@@ -18,3 +28,4 @@ Desarrollador Backend en Python - Django estoy en el programa <a href="http://ht
 <p><a href="https://www.linkedin.com/in/dimanso-perez-6144081bb/">LinkedIn</a> 💼</p>
 
 <hr/>
+
