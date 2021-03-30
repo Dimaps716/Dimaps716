@@ -3,7 +3,7 @@
 Desarrollador Backend con Python - Django estudiante de el programa <a href="http://https://platzi.com/blog/conoce-que-es-platzi-master/">Plazi Master</a>, Entusiasta de la ciencia de la computacion, Las tecnologias con las que me apasiona crear codigo y proyectos son. 
 
 
-<table align="right" width="150" height="150">
+<table align="right" width="150" height="155">
   <tr> 
      <td > Demo de algunos de los proyectos que en los que e colaborado 
      <p><a href="https://www.youtube.com/watch?v=eVRFnytvDHE">Master Path | Hackatón Platzi Master 2020</a> 💥🚀</p>
