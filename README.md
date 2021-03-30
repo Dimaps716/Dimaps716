@@ -1,6 +1,6 @@
 # Hola, soy Dimanso 👋🏾 👨🏽‍💻
 
-Desarrollador Backend con Python - Django estudiante de el programa <a href="http://https://platzi.com/blog/conoce-que-es-platzi-master/">Plazi Master</a>, Entusiasta de la ciencia de la computacion, Las tecnologias con las que me apasiona crear codigo y proyectos son 
+Desarrollador Backend con Python - Django estudiante de el programa <a href="http://https://platzi.com/blog/conoce-que-es-platzi-master/">Plazi Master</a>, Entusiasta de la ciencia de la computacion, Las tecnologias con las que me apasiona crear codigo y proyectos son. 
 
 
 <table align="right" width="150" height="150">
@@ -25,8 +25,6 @@ Desarrollador Backend con Python - Django estudiante de el programa <a href="htt
 
 
 <hr/>
-
 <p><a href="https://www.linkedin.com/in/dimanso-perez-6144081bb/">LinkedIn</a> 💼</p>
-
 <hr/>
 
