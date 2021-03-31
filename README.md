@@ -25,6 +25,6 @@ Desarrollador Backend con Python - Django estudiante de el programa <a href="htt
 
 
 <hr/>
-<p><a href="https://www.linkedin.com/in/dimanso-perez-6144081bb/">LinkedIn</a> 💼</p>
+<p><a href="https://www.linkedin.com/in/dimaps716/">LinkedIn</a> 💼</p>
 <hr/>
 
