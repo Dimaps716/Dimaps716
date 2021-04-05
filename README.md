@@ -1,4 +1,4 @@
-<li> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/DIMA.gif"</li> 
+<img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/DIMA.gif" alt="git de presentacion" width="500" height="300">
 
 
 
