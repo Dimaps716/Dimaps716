@@ -7,6 +7,7 @@
 
 ### The tools I like to create things with are 
 
+<div style="text-align:center;">
 <table width="250" cellspacing="1" cellpadding="3" border="0" bgcolor="">
    <td >
 <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/python.png">
@@ -26,3 +27,4 @@
 <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/azure.png">
 </tr>
 </table>
+</div>
