@@ -7,7 +7,7 @@
 
 ### The tools I like to create things with are
 
-### <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/python.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/django.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/fastapi2.png">
+### <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/python.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/django.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/fastapi.png">
 ### <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/docker.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/git.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/git_.png">
 ### <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/vscode.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/postman.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/ubuntu.png">
 ### <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/postgres.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/mysql.png"> <img src="https://raw.githubusercontent.com/Dimaps716/Dimaps716/master/linux.png">
