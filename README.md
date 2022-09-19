@@ -11,7 +11,7 @@
 
 
 ## Tecnologias
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"width="40" height="40" />
@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-                    
+</div>                    
 
 ## Contatos:
 
@@ -38,6 +38,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dimaps716&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Dimaps716/Dimaps716/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/Dimaps716/Dimaps716/blob/output/github-contribution-grid-snake.svg)
 
 
