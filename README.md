@@ -45,6 +45,6 @@ Mi nombre es DIMA y soy un desarrollador de Python que actualmente trabaja en hu
   </a>
 </p>
 
-![Snake animation](https://github.com/Dimaps716/Dimaps716/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/Dimaps716/Dimaps716/blob/output/github-contribution-grid-snake.svg)
 
 
