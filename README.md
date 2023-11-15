@@ -1,13 +1,21 @@
+<div align="center">
+
 # ¡Hola! 👋
 
 ¡Bienvenido a mi perfil de GitHub!
 
-Mi nombre es DIMA y soy un desarrollador de Python que actualmente trabaja en hunty. Soy apasionado por el desarrollo backend y siempre estoy ansioso por aprender nuevas tecnologías.
+Soy DIMA, un desarrollador de Python con más de 3 años de experiencia en el desarrollo backend y actualmente trabajo en Hunty. Me apasiona el desarrollo backend y estoy constantemente buscando aprender nuevas tecnologías para mejorar mis habilidades. 💻🚀
 
-- 🔭 Actualmente trabajo en hunty como desarrollador de Python.
-- 🌱 Actualmente estoy aprendiendo el lenguaje de programación Go.
-- 💬 Pregúntame sobre desarrollo backend.
-- ⚡ Dato curioso: Estudié en Plazit Master.
+## Experiencia Profesional
+</div>
+
+- 🔭 Actualmente desempeño el rol de desarrollador de Python en Hunty.
+- 💼 Experiencia de más de 3 años en desarrollo backend con Python, Django y fastAPI.
+- 🌱 En constante aprendizaje, explorando el lenguaje de programación Go.
+- 💬 Pregúntame sobre desarrollo backend, diseño de REST APIs, bases de datos SQL (PostgreSQL, MySQL), despliegue de APIs en Microsoft Azure y bases de datos en Amazon RDS.
+- ⚡ Dato curioso: Graduado de Plazit Master, donde consolidé mis conocimientos en desarrollo de aplicaciones web. 🎓
+
+¡Estoy emocionado por seguir creciendo en el campo del desarrollo backend y contribuir a proyectos innovadores! 🌟
 
 ## Tecnologías
 
