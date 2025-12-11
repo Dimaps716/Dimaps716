@@ -2,7 +2,7 @@
 
 > **Python Expert • AI Integrations • Workflow Automation Specialist**
 
-Soy un Ingeniero de Software que rompe la barrera entre el **código puro** y la **automatización inteligente**. No solo construyo APIs; diseño ecosistemas donde Python, la Inteligencia Artificial y herramientas de orquestación (n8n/Make) trabajan juntos para crear soluciones de negocio ultra-eficientes.
+Soy un apasionado del Software que rompe la barrera entre el **código puro** y la **automatización inteligente**. No solo construyo APIs; diseño ecosistemas donde Python, la Inteligencia Artificial y herramientas de orquestación (n8n/Make) trabajan juntos para crear soluciones de negocio ultra-eficientes.
 
 Combino la solidez de la ingeniería de software tradicional con la agilidad de las herramientas modernas de automatización.
 
