@@ -1,0 +1,55 @@
+services:
+  selenium-hub:
+    image: selenium/hub:4.27.0
+    container_name: dimaps-selenium-hub
+    ports:
+      - "4452:4442"  # Event bus publish port
+      - "4453:4443"  # Event bus subscribe port
+      - "4454:4444"  # Grid UI and WebDriver endpoint
+    environment:
+      - GRID_MAX_SESSION=${GRID_MAX_SESSION:-10}
+      - SE_SESSION_REQUEST_TIMEOUT=${SE_SESSION_REQUEST_TIMEOUT:-300}
+      - SE_SESSION_TIMEOUT=${SE_SESSION_TIMEOUT:-300}
+      - SE_NODE_SESSION_TIMEOUT=${SE_NODE_SESSION_TIMEOUT:-300}
+      - SE_LOG_LEVEL=${SE_LOG_LEVEL:-INFO}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4444/wd/hub/status"]
+      interval: ${SE_HEALTHCHECK_INTERVAL:-15}s
+      timeout: 10s
+      retries: 5
+    networks:
+      - selenium-grid
+
+  chrome-node:
+    image: selenium/node-chrome:4.27.0
+    depends_on:
+      selenium-hub:
+        condition: service_healthy
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+      - SE_NODE_MAX_SESSIONS=${SE_NODE_MAX_SESSIONS:-3}
+      - SE_NODE_OVERRIDE_MAX_SESSIONS=${SE_NODE_OVERRIDE_MAX_SESSIONS:-true}
+      #- SE_VNC_PASSWORD=${SE_VNC_PASSWORD:-dimaps}
+      - SE_VNC_NO_PASSWORD=1
+      - SE_SCREEN_WIDTH=${SE_SCREEN_WIDTH:-1920}
+      - SE_SCREEN_HEIGHT=${SE_SCREEN_HEIGHT:-1080}
+      - SE_LOG_LEVEL=${SE_LOG_LEVEL:-INFO}
+      - JAVA_OPTS=${JAVA_OPTS:--Xmx512m}
+    ports:
+      - "7900-7900:7900"  # noVNC range for replicas
+    shm_size: "${SHM_SIZE:-2gb}"
+    networks:
+      - selenium-grid
+    deploy:
+      replicas: ${CHROME_NODES:-1}
+
+
+
+networks:
+  selenium-grid:
+    driver: bridge
+
+volumes:
+  chrome-data:
